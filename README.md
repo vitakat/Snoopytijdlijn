@@ -151,7 +151,7 @@ Mijn startniveau is blauw
   <img src="readme-images/zonderwolken.png" width="375px" alt="vierde ontwikkeling in de pagina zonder wolken op de plaatjes">  
  
  
-  ### Bevinding 2:
+  ### Bevinding 4:
   Secties die ik niet ga gebruiken staan nog overal
   #### oplossing:
   Heb de regels die ik nier had gebruikt weggehaald.
@@ -171,7 +171,7 @@ Mijn startniveau is blauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="/../tijdlijn/readme-images/huidigontwerp.png" width="375px" alt="huidig ontwerp">
+  <img src="/readme-images/huidigontwerp.png" width="375px" alt="huidig ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
