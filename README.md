@@ -48,7 +48,7 @@ Mijn startniveau is blauw
   Tip: Je kan de "comic" vormgeving aanhouden met vierkante blokken en horizontal scrolling
   #### oplossing:
   Ik heb de ordered list in een flexbox gestopt en deze wordt horizontaal weergegeven
-  <img src="tijdlijn/readme-images/eerstepagina.png" width="375px"; alt="eerste ontwikkeling in de pagina, horizontale lijst">
+  <img src="readme-images/eerstepagina.png" width="375px"; alt="eerste ontwikkeling in de pagina, horizontale lijst">
 
   ### Bevinding 3:
   Je zou ook de tekenstijl kunnen toevoegen en gebruik maken van zwart/wit van de oude snoopy
@@ -71,7 +71,7 @@ Mijn startniveau is blauw
   <img src="../tijdlijn/readme-images/tweedepagina.png" width="375px" alt="tweede ontwikkeling in de pagina 'knoppen'">  
   #### oplossing:
   Snoopy fases als actuele snoopy's uit de geschiedenis weergegeven
-  <img src="../tijdlijn/readme-images/derdepagina.png" width="375px" alt="derde ontwikkeling in de pagina met snoopys">  
+  <img src="readme-images/derdepagina.png" width="375px" alt="derde ontwikkeling in de pagina met snoopys">  
 </details>
 
 
@@ -145,10 +145,10 @@ Mijn startniveau is blauw
 
   ### Bevinding 3:
   de wolken vliegen over de plaatjes heen
-  <img src="../tijdlijn/readme-images/vierdepagina.png" width="375px" alt="vierde ontwikkeling in de pagina met wolken op de plaatjes">  
+  <img src="/readme-images/vierdepagina.png" width="375px" alt="vierde ontwikkeling in de pagina met wolken op de plaatjes">  
   #### oplossing:
   Heb de wolken bij de details pagina's weggehaald/uitgezet (display:none gegeven aan de header)
-  <img src="../tijdlijn/readme-images/zonderwolken.png" width="375px" alt="vierde ontwikkeling in de pagina zonder wolken op de plaatjes">  
+  <img src="readme-images/zonderwolken.png" width="375px" alt="vierde ontwikkeling in de pagina zonder wolken op de plaatjes">  
  
  
   ### Bevinding 2:
